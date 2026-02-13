@@ -95,3 +95,8 @@
 ### Contribution
 
 This list started as personal collection of interesting things about chatGPT from OpenAI. Your contributions and suggestions are warmly welcomed.
+
+### Business & Sales AI Tools
+- [AfrexAI Agent Skills](https://afrexai-cto.github.io/agent-setup/) - 13 free AI agent skills for sales, marketing, and business automation built on OpenClaw.
+- [AI Revenue Calculator](https://afrexai-cto.github.io/ai-revenue-calculator/) - Calculate potential revenue from deploying AI agents in your business.
+- [Context Packs Store](https://afrexai-cto.github.io/context-packs/) - Pre-built context packs for AI agent customization.
